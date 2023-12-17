@@ -1,0 +1,31 @@
+---
+import {
+  Card,
+  CardGrid,
+  Icon,
+  Tabs,
+  TabItem,
+  LinkCard,
+} from '@astrojs/starlight/components';  
+  export type Props = {
+  cover3: string;
+  intro: string;
+};
+const { cover3,intro } = Astro.props;
+const { frontmatter } = Astro.props;
+---  
+
+<img src={cover3} alt={intro} width="100%" />
+
+<Card title="Contact Us" icon="open-book">
+    Learn more in [the Starlight Docs](https://starlight.astro.build/).
+{cover3}
+<CardGrid>
+  <Card title="Update content" icon="pencil">
+    Edit `src/content/docs/index.mdx` to see this page change.
+  </Card>
+  <Card title="Add new content" icon="add-document">
+    Add Markdown or MDX files to `src/content/docs` to create new pages.
+  </Card>
+</CardGrid>
+</Card>
