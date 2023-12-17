@@ -12,7 +12,8 @@ Run demo : [https://stardoc.pages.dev/](https://stardoc.pages.dev/)
 
 Google ligthhouse Test drive
 
-![starlight template](https://public-files.gumroad.com/561ut4q443xzbuzonpp1t0pj888q](https://public-files.gumroad.com/561ut4q443xzbuzonpp1t0pj888q)
+
+![starlight template](https://public-files.gumroad.com/561ut4q443xzbuzonpp1t0pj888q)
 
 A Project present by [https://fiver.com/creativitas](https://fiver.com/creativitas)
 
