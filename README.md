@@ -12,7 +12,7 @@ Run demo : [https://stardoc.pages.dev/](https://stardoc.pages.dev/)
 
 Google ligthhouse Test drive
 
-![starlight template](https://app.gumroad.com/1d67e223-ebf9-41d0-81e1-026f526cf31d)
+![starlight template]([https://app.gumroad.com/1d67e223-ebf9-41d0-81e1-026f526cf31d](https://public-files.gumroad.com/561ut4q443xzbuzonpp1t0pj888q))
 
 A Project present by [https://fiver.com/creativitas](https://fiver.com/creativitas)
 
