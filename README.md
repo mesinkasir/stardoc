@@ -10,6 +10,16 @@ Run demo : [https://stardoc.pages.dev/](https://stardoc.pages.dev/)
 
 Read Documentation :[https://www.hockeycomputindo.com/themes/astro/free-starlight-astro-stardoc/](https://www.hockeycomputindo.com/themes/astro/free-starlight-astro-stardoc/)
 
+Features: 
++ Header Section
++ Intro Features Section
++ Project Section
++ Documentation Section
++ Pricing Plan Section
++ Contact Section
++ Dark & Light Mode
++ Starlight Documentation
+
 ![starlight template](https://public-files.gumroad.com/8ii5t5z89rbfv3754442wvns43l1)
 
 Google ligthhouse Test drive
